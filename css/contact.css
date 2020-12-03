@@ -1,0 +1,43 @@
+body{
+  font-family: open sans;
+}
+a{
+  color: #000000;
+  text-decoration: none;
+}
+p.header{
+  background-color: rgba(255,255,255,0.3);
+  text-align: right;
+  padding: 20px 0;
+}
+p.redes{
+  text-align: right;
+}
+h4{
+  color: #1c9a85;
+}
+h1, h2{
+  font-family: Raleway;
+}
+h1{
+  font-size: 70px;
+}
+h2{
+  font-size: 20px;
+  font-weight: bold;
+}
+ul{
+  list-style: none;
+  padding: 0;
+  margin-bottom: 40px;
+}
+ul a{
+  color: grey;
+}
+ul b{
+  font-weight: normal;
+  color: #000000;
+}
+iframe{
+  margin-bottom: 50px;
+}
